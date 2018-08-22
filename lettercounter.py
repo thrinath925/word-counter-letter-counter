@@ -36,4 +36,4 @@ a=word_count(mystring)
 for key in sorted(a):
     print ("%s: %s" % (key, a[key]))
 
-    
+g=input()    
